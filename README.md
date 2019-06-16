@@ -4,7 +4,9 @@ Practive DevOps using IBM Cloud continous delivery service.
 
 Create your own custom DevOps toolchain to go from your source code to a running application in a minutes.
 
-**Writing the server code**
+**Steps**
+
+1. Fork/Clone the github repo by using the following command: `git clone https://github.com/samerfouad/sample-express-app.git`
 
 1. `git clone YOUR_REPO_URL`
 
