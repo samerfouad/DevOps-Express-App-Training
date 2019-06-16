@@ -1,12 +1,14 @@
 # Sample Express DevOps App
 
-Practive DevOps using IBM Cloud continous delivery service.
+Practive DevOps using IBM Cloud continous delivery service, Build and Deploy cloud foundry applications with DevOps service.
 
 Create your own custom DevOps toolchain to go from your source code to a running application in a minutes.
 
 **Steps**
 
 1. Fork/Clone this github repo by using the following command: `git clone https://github.com/samerfouad/sample-express-app.git`
+
+2. Login to IBM Cloud using the following link: `https://cloud.ibm.com/login`
 
 1. `git clone YOUR_REPO_URL`
 
