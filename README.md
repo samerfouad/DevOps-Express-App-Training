@@ -1,3 +1,5 @@
-# Sample Server
+# Sample Express DevOps App
 
-This is a sample server written in NodeJS with ExpressJS.
+Practive DevOps using IBM Cloud continous delivery service.
+
+**Writing the server code**
