@@ -11,7 +11,7 @@ Create your own custom DevOps toolchain to go from your source code to a running
 2. Login to IBM Cloud using the following link: `https://cloud.ibm.com/login`
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](user-images.githubusercontent.com/18283745/59562339-ad7aa400-902b-11e9-845f-eaef328df35e.png?raw=true "Optional Title")
 
 1. `git clone YOUR_REPO_URL`
 
