@@ -13,7 +13,12 @@ Create your own custom DevOps toolchain to go from your source code to a running
 
 ![Alt text](user-images.githubusercontent.com/18283745/59562339-ad7aa400-902b-11e9-845f-eaef328df35e.png?raw=true "Optional Title")
 
-1. `git clone YOUR_REPO_URL`
+
+Click the Add Stage button.
+
+Name it Build.
+
+The options for the INPUT tab should be correct by default, but we’ll list them here for completeness:
 
 ```javascript
 var express = require('express');
